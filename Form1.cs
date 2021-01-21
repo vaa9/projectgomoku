@@ -78,7 +78,6 @@ namespace projectgomoku
             }
             else if (player == 1)
             {
-                //tombol[sumbux, sumbuy].BackgroundImage = Image.FromFile(@"C:\Users\prava\source\repos\projectgomoku\bulet putih.jpg");
                 tombol[sumbux, sumbuy].BackColor = Color.White;
                 simbol = "o";
                 player = 0;
